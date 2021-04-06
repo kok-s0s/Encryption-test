@@ -136,7 +136,7 @@ $ sudo perf stat openssl enc -sm4-cbc -pbkdf2 -salt -in m.txt -out c.txt -pass p
 
 
 
-![](/home/kok-s0s/Documents/网络安全课程作业/2021_4_6/homework_pic/3.png)
+![](homework_pic/3.png)
 
 
 
