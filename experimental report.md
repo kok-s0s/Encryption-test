@@ -119,7 +119,7 @@ $ sudo perf stat openssl enc -des-cbc -pbkdf2 -salt -in m.txt -out c.txt -pass p
 ## TEA-GCM
 
 
-
+待补充
 
 
 
@@ -146,7 +146,7 @@ $ sudo perf stat openssl enc -sm4-cbc -pbkdf2 -salt -in m.txt -out c.txt -pass p
 
 
 
-
+待补充
 
 
 
